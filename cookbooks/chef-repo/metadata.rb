@@ -1,6 +1,6 @@
 name 'chef-repo'
 maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer_email 'sandeepraonayini9@gmail.com'
 license ''
 description 'Installs/Configures chef-repo'
 long_description 'Installs/Configures chef-repo'
